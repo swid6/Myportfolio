@@ -1,0 +1,81 @@
+.name{
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.img img{
+    margin-left: 200px;
+    width: 1000px;
+}
+
+.age{
+    font-size: large;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.nav-item{
+    font-size: larger;
+}
+
+.about{
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+.skills{
+    margin-left: 650px;
+}
+
+.port{
+    margin-left: 620px;
+}
+
+.contact{
+    margin-left: 620px;
+}
+.me{
+    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-right: 550px;
+    margin-left: 450px;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 20px;
+    border-radius: 30%;
+    color: aliceblue;
+    font-size: 20px;
+    padding-inline: 40px ;
+    margin-left: 610px;
+}
+
+.well{
+    margin: 20px;
+    margin-left: 675px;
+}
+
+.tel{
+    width: 70px;
+}
+
+.god{
+    margin-left: 635px;
+}
+
+.logo{
+    margin: 50px;
+    gap: 20px;
+    margin-left: 540px;
+}
+
+.mem{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.face{
+    width: 100px;
+}
